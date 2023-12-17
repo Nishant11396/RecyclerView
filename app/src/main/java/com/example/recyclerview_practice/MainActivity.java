@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         
 
     }
-
+//this function is for show data
     private ArrayList<Modelclass> data() {
 
         ArrayList<Modelclass> list = new ArrayList<>();
